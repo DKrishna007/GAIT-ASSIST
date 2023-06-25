@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<segmentData xmlns='http://www.solidworks.com/segmentData'>
+    <segment ID='4'>
+        <properties>
+            <Name value='CPoint1@3.5mmAudioJack_3wiresINPUT-1@Cable_1-ElectrodeCable_2ndAttempt:CPoint1@ElectrodeCablePadConnector_Blue-1@Cable_1-ElectrodeCable_2ndAttempt'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='C1'/>
+            <ToConnectionPoint value='C1'/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value=''/>
+            <Length value='0.697925'/>
+            <AdditionalLength value='0.723325'/>
+            <FromLocation value='-0.013888,0.008193,-0.030458'/>
+            <ToLocation value='-0.015311,0.589308,-0.214624'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='5'>
+        <properties>
+            <Name value='CPoint1@ElectrodeCablePadConnector_Red-1@Cable_1-ElectrodeCable_2ndAttempt:CPoint2@3.5mmAudioJack_3wiresINPUT-1@Cable_1-ElectrodeCable_2ndAttempt'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='C2'/>
+            <ToConnectionPoint value='C2'/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value=''/>
+            <Length value='0.713769'/>
+            <AdditionalLength value='0.739169'/>
+            <FromLocation value='-0.015311,0.008193,-0.030458'/>
+            <ToLocation value='-0.015311,0.580607,-0.240111'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+    <segment ID='6'>
+        <properties>
+            <Name value='CPoint1@ElectrodeCablePadConnector_Black-1@Cable_1-ElectrodeCable_2ndAttempt:CPoint3@3.5mmAudioJack_3wiresINPUT-1@Cable_1-ElectrodeCable_2ndAttempt'/>
+            <FromCompID value='0'/>
+            <ToCompID value='0'/>
+            <FromConnectionPoint value='C3'/>
+            <ToConnectionPoint value='C3'/>
+            <FromComponentRef value=''/>
+            <ToComponentRef value=''/>
+            <Length value='0.732378'/>
+            <AdditionalLength value='0.757778'/>
+            <FromLocation value='-0.016733,0.008193,-0.030458'/>
+            <ToLocation value='-0.015311,0.569201,-0.268953'/>
+            <MaxDiameter value='0.000000'/>
+            <Diameter value='0.002000'/>
+            <Comment value='No Comments'/>
+            <Coverings value=''/>
+        </properties>
+    </segment>
+</segmentData>

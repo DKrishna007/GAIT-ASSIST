@@ -1,0 +1,325 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<fromToList xmlns='http://www.solidworks.com/fromToList'>
+    <version value='3'/>
+ fromToRouteType='route'    <fromToData>
+        <wireID value='1'/>
+        <wireName value='15g black_1'/>
+        <signalName  value=''/>
+        <cableID value='0'/>
+        <cableName value=''/>
+        <cableCoreRef value=''/>
+        <colour value='Black'/>
+        <swColour value='2097152'/>
+        <partNumber value='EMG-EC-Black'/>
+        <OD value='0.002000'/>
+        <conductorDiameter value='0.000000'/>
+        <size value='15'/>
+        <routedLength value='0.732378'/>
+        <cuttingLength value='0.757778'/>
+        <comments value='15g black'/>
+        <fromCompID value='-1'/>
+        <fromCompRef value='3.5mmAudioJack_3wiresINPUT-1'/>
+        <fromPinID value='-1'/>
+        <fromPinRef value='C3'/>
+        <fromInsert value=''/>
+        <fromCompPart value=''/>
+        <fromPinIsTBlock value='0'/>
+        <toCompID value='-1'/>
+        <toCompRef value='ElectrodeCablePadConnector_Black-1'/>
+        <toPinID value='-1'/>
+        <toPinRef value='C3'/>
+        <toCompPart value=''/>
+        <toInsert value=''/>
+        <owner value='1'/>
+        <minBendRadius value='0.001000'/>
+        <toPinIsTBlock value='0'/>
+    </fromToData>
+    <FromTerminal>
+        <Terminal>
+            <TerminalID value=''/>
+            <TerminalName value=''/>
+            <GaugeRange value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Terminal>
+    </FromTerminal>
+    <ToTerminal>
+        <Terminal>
+            <TerminalID value=''/>
+            <TerminalName value=''/>
+            <GaugeRange value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Terminal>
+    </ToTerminal>
+    <FromSeal>
+        <Seal>
+            <SealID value=''/>
+            <SealName value=''/>
+            <Vendor value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+        </Seal>
+    </FromSeal>
+    <ToSeal>
+        <Seal>
+            <SealID value=''/>
+            <SealName value=''/>
+            <Vendor value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+        </Seal>
+    </ToSeal>
+    <FromPlug>
+        <Plug>
+            <PlugID value=''/>
+            <PlugName value=''/>
+            <PartNumber value=''/>
+            <Description value=''/>
+            <Vendor value=''/>
+        </Plug>
+    </FromPlug>
+    <ToPlug>
+        <Plug>
+            <PlugID value=''/>
+            <PlugName value=''/>
+            <PartNumber value=''/>
+            <Description value=''/>
+            <Vendor value=''/>
+        </Plug>
+    </ToPlug>
+    <FromMisc>
+        <Misc>
+            <MiscID value=''/>
+            <MiscName value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Misc>
+    </FromMisc>
+    <ToMisc>
+        <Misc>
+            <MiscID value=''/>
+            <MiscName value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Misc>
+    </ToMisc>
+    <fromToData>
+        <wireID value='2'/>
+        <wireName value='15g blue_2'/>
+        <signalName  value=''/>
+        <cableID value='0'/>
+        <cableName value=''/>
+        <cableCoreRef value=''/>
+        <colour value='B'/>
+        <swColour value='16711680'/>
+        <partNumber value='EMG-EC-Blue'/>
+        <OD value='0.002000'/>
+        <conductorDiameter value='0.000000'/>
+        <size value='15'/>
+        <routedLength value='0.697925'/>
+        <cuttingLength value='0.723325'/>
+        <comments value='15g blue'/>
+        <fromCompID value='-1'/>
+        <fromCompRef value='3.5mmAudioJack_3wiresINPUT-1'/>
+        <fromPinID value='-1'/>
+        <fromPinRef value='C1'/>
+        <fromInsert value=''/>
+        <fromCompPart value=''/>
+        <fromPinIsTBlock value='0'/>
+        <toCompID value='-1'/>
+        <toCompRef value='ElectrodeCablePadConnector_Blue-1'/>
+        <toPinID value='-1'/>
+        <toPinRef value='C1'/>
+        <toCompPart value=''/>
+        <toInsert value=''/>
+        <owner value='1'/>
+        <minBendRadius value='0.001000'/>
+        <toPinIsTBlock value='0'/>
+    </fromToData>
+    <FromTerminal>
+        <Terminal>
+            <TerminalID value=''/>
+            <TerminalName value=''/>
+            <GaugeRange value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Terminal>
+    </FromTerminal>
+    <ToTerminal>
+        <Terminal>
+            <TerminalID value=''/>
+            <TerminalName value=''/>
+            <GaugeRange value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Terminal>
+    </ToTerminal>
+    <FromSeal>
+        <Seal>
+            <SealID value=''/>
+            <SealName value=''/>
+            <Vendor value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+        </Seal>
+    </FromSeal>
+    <ToSeal>
+        <Seal>
+            <SealID value=''/>
+            <SealName value=''/>
+            <Vendor value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+        </Seal>
+    </ToSeal>
+    <FromPlug>
+        <Plug>
+            <PlugID value=''/>
+            <PlugName value=''/>
+            <PartNumber value=''/>
+            <Description value=''/>
+            <Vendor value=''/>
+        </Plug>
+    </FromPlug>
+    <ToPlug>
+        <Plug>
+            <PlugID value=''/>
+            <PlugName value=''/>
+            <PartNumber value=''/>
+            <Description value=''/>
+            <Vendor value=''/>
+        </Plug>
+    </ToPlug>
+    <FromMisc>
+        <Misc>
+            <MiscID value=''/>
+            <MiscName value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Misc>
+    </FromMisc>
+    <ToMisc>
+        <Misc>
+            <MiscID value=''/>
+            <MiscName value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Misc>
+    </ToMisc>
+    <fromToData>
+        <wireID value='3'/>
+        <wireName value='15g red_3'/>
+        <signalName  value=''/>
+        <cableID value='0'/>
+        <cableName value=''/>
+        <cableCoreRef value=''/>
+        <colour value='Red'/>
+        <swColour value='255'/>
+        <partNumber value='EMG-EC-Red'/>
+        <OD value='0.002000'/>
+        <conductorDiameter value='0.000000'/>
+        <size value='15'/>
+        <routedLength value='0.713769'/>
+        <cuttingLength value='0.739169'/>
+        <comments value='15g red'/>
+        <fromCompID value='-1'/>
+        <fromCompRef value='3.5mmAudioJack_3wiresINPUT-1'/>
+        <fromPinID value='-1'/>
+        <fromPinRef value='C2'/>
+        <fromInsert value=''/>
+        <fromCompPart value=''/>
+        <fromPinIsTBlock value='0'/>
+        <toCompID value='-1'/>
+        <toCompRef value='ElectrodeCablePadConnector_Red-1'/>
+        <toPinID value='-1'/>
+        <toPinRef value='C2'/>
+        <toCompPart value=''/>
+        <toInsert value=''/>
+        <owner value='1'/>
+        <minBendRadius value='0.001000'/>
+        <toPinIsTBlock value='0'/>
+    </fromToData>
+    <FromTerminal>
+        <Terminal>
+            <TerminalID value=''/>
+            <TerminalName value=''/>
+            <GaugeRange value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Terminal>
+    </FromTerminal>
+    <ToTerminal>
+        <Terminal>
+            <TerminalID value=''/>
+            <TerminalName value=''/>
+            <GaugeRange value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Terminal>
+    </ToTerminal>
+    <FromSeal>
+        <Seal>
+            <SealID value=''/>
+            <SealName value=''/>
+            <Vendor value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+        </Seal>
+    </FromSeal>
+    <ToSeal>
+        <Seal>
+            <SealID value=''/>
+            <SealName value=''/>
+            <Vendor value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+        </Seal>
+    </ToSeal>
+    <FromPlug>
+        <Plug>
+            <PlugID value=''/>
+            <PlugName value=''/>
+            <PartNumber value=''/>
+            <Description value=''/>
+            <Vendor value=''/>
+        </Plug>
+    </FromPlug>
+    <ToPlug>
+        <Plug>
+            <PlugID value=''/>
+            <PlugName value=''/>
+            <PartNumber value=''/>
+            <Description value=''/>
+            <Vendor value=''/>
+        </Plug>
+    </ToPlug>
+    <FromMisc>
+        <Misc>
+            <MiscID value=''/>
+            <MiscName value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Misc>
+    </FromMisc>
+    <ToMisc>
+        <Misc>
+            <MiscID value=''/>
+            <MiscName value=''/>
+            <Description value=''/>
+            <PartNumber value=''/>
+            <Vendor value=''/>
+        </Misc>
+    </ToMisc>
+</fromToList>
